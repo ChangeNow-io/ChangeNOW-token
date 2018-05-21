@@ -1,4 +1,4 @@
-pragma solidity ^0.4.23;
+pragma solidity ^0.4.24;
 
 /**
  * @title SafeMath
@@ -211,11 +211,11 @@ contract StandardToken is ERC20, BasicToken {
 
 /**
  * @title ChangeNOW Token
- * @dev ChangeNOW Token ERC20 token. Implemented as an OpenZeppelin StandardToken.
+ * @dev ChangeNOW ERC20 token. Implemented as an OpenZeppelin StandardToken.
  */
 contract ChangeNOWToken is StandardToken {
 
-  string public constant name = "ChangeNOWToken";
+  string public constant name = "ChangeNOW";
   string public constant symbol = "NOW";
   uint8 public constant decimals = 8;
 
