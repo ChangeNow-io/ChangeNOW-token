@@ -4,10 +4,10 @@ This is the GitHub page for the NOW Token, the ERC20 standard version of the tok
 
 As of now, the NOW Token exists in two networks simultaneously: on Ethereum (ERC20 Standard) and Binance Chain (BEP2 Standard). 
 
-Type: ERC20 Token
-Ticker: NOW
-Full name: ChangeNOW
-Decimals: 8
+Type: ERC20 Token   
+Ticker: NOW   
+Full name: ChangeNOW   
+Decimals: 8   
 Total supply: 200 000 000 NOW (100 000 000 on the ERC20 standard, 100 000 000 on the BEP2 standard)
 
 Read more about the NOW token: https://changenow.io/tokens   
