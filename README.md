@@ -10,6 +10,6 @@ Full name: ChangeNOW
 Decimals: 8
 Total supply: 200 000 000 NOW (100 000 000 on the ERC20 standard, 100 000 000 on the BEP2 standard)
 
-Read more about the NOW token: https://changenow.io/tokens
-Contract on Etherscan: https://etherscan.io/address/0xe9a95d175a5f4c9369f3b74222402eb1b837693b
+Read more about the NOW token: https://changenow.io/tokens   
+Contract on Etherscan: https://etherscan.io/address/0xe9a95d175a5f4c9369f3b74222402eb1b837693b   
 Token page on Etherscan: https://etherscan.io/token/0xe9a95d175a5f4c9369f3b74222402eb1b837693b
